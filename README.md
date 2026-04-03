@@ -1,6 +1,10 @@
 CICADA – Cyber Threat Detection System
 
-An end-to-end machine learning system for detecting network anomalies and cyber threats using the CICIDS dataset. This project combines data preprocessing, feature engineering, anomaly detection, classification models, and an interactive dashboard for real-time insights.
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
+![Dashboard](https://img.shields.io/badge/Streamlit-Dashboard-red)
+
+Developed an end-to-end machine learning pipeline for cyber threat detection using CICIDS dataset, performing data preprocessing, feature engineering, anomaly detection (Isolation Forest), and classification (Random Forest, ~99% accuracy), and deployed insights through an interactive Streamlit dashboard for real-time network traffic monitoring.
 
 
 This system analyzes network traffic data to identify malicious activity such as DDoS attacks and abnormal behavior. It uses both unsupervised and supervised learning techniques to detect anomalies and classify threats.
